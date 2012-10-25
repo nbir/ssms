@@ -1,0 +1,22 @@
+#div_link
+{ background: #eeeeee; width: 950px; height: 30px; margin: 0; text-align:right;}
+.div_notification
+{ background:#eeeeee; width:930px; height: 40px; line-height:40px; margin:10px; border: 0; border-radius: 5px; -moz-border-radius:5px; -webkit-border-radius:5px;}
+.div_bodyright
+{ background:#eeeeee; width: 930px;	 margin:10px; border-radius: 15px; -moz-border-radius:15px; -webkit-border-radius:15px; float:right;}
+.div_heading
+{ background:#555555; width:930px; height:30px; margin:0; border-top-left-radius:15px; -moz-border-radius-topleft:15px; -webkit-border-top-left-radius:15px; border-top-right-radius:15px; -moz-border-radius-topright:15px; -webkit-border-top-right-radius:15px; float:left;}
+.input_button
+{ font-family: verdana; font-size:15px; background-color: #dddddd; border: 1px solid #444444; border-radius: 5px; -moz-border-radius:5px; -webkit-border-radius:5px;}
+.input_button:hover
+{ color:#eeeeee; background-color: #555555; text-decoration:underline;}
+.table_dispatch
+{ width:920px; }
+.tr_dispatch
+{ width: 230px;}
+.p_message
+{ font-family: verdana; font-size:15px; color:#444444; line-height: 25px; text-align:left; text-indent:25px;}
+.p_heading
+{ font-family: verdana; font-size:17px; color:#eeeeee; line-height:0px; text-align:center; text-indent:30px;}
+.p_reportentry
+{ font-family: verdana; font-size:15px; color:#444444; text-align:left; text-indent:30px;}

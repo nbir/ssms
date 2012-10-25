@@ -1,0 +1,20 @@
+body
+{ background-color:#91866e;}
+#div_container
+{ background:#ffffff; width: 950px; margin: 20px auto 20px auto; border-radius:10px; -moz-border-radius:10px; -webkit-border-radius:10px;}
+#div_header
+{ background:#dddddd; width:950px; height:50px; margin: 0; border-width: 0 0 2px 0; border-style: hidden hidden solid hidden; border-color: #91866e; clear:both; border-top-left-radius:10px; -moz-border-radius-topleft:10px; -webkit-border-top-left-radius:10px; border-top-right-radius:10px; -moz-border-radius-topright:10px; -webkit-border-top-right-radius:10px;}
+#div_header_left
+{ width:650px; float: left;}
+#div_header_right
+{background-image: url(../image/gif_abccorp.gif); background-repeat: no-repeat; background-position: bottom; width:300px; height: 50px; float: right;}
+#div_footer
+{ background:#dddddd; width:950px; height:30px; margin: 0; border-width: 2px 0 0 0; border-style: solid hidden hidden hidden; border-color: #91866e; clear:both; border-bottom-left-radius:10px; -moz-border-radius-bottomleft:10px; -webkit-border-bottom-left-radius:10px; border-bottom-right-radius:10px; -moz-border-radius-bottomright:10px; -webkit-border-bottom-right-radius:10px;}
+#div_body
+{ clear:both;}
+#p_ssms_head
+{ font-family: arial; font-size: 35px; color: #9C622A; font-weight: 700; line-height: 50px; display:inline;}
+#p_ssms_head_i
+{ font-family: arial; font-size: 20px; color: #666666; line-height:0px; font-style:italic; display:inline;}
+#p_ssms_foot
+{ font-family: verdana; font-size: 15px; color:#A98551; line-height: 2px; text-align:right; font-style:italic;}

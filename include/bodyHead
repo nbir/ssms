@@ -1,0 +1,11 @@
+</head>
+<body>
+<div id="div_container">
+<div id="div_header">
+	<div id="div_header_left">
+		<p id="p_ssms_head">&nbsp;&nbsp;SSMS</p>
+		<p id="p_ssms_head_i">(Smart Space Management System)</p>
+	</div>
+	<div id="div_header_right"></div>
+</div>
+<div id="div_body">

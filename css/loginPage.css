@@ -1,0 +1,27 @@
+#div_bodyleft
+{ width: 605px; height: 215px; margin:10px;
+float:left;}
+#div_bodyright
+{ background:#eeeeee; width: 300px; height: 211px; margin:10px; border: 2px solid #91866e; border-radius: 15px; -moz-border-radius:15px; -webkit-border-radius:15px; float:right;}
+.div_notification
+{ background:#eeeeee; width:930px; height: 40px; line-height:40px; margin:10px; border: 0; border-radius: 5px; -moz-border-radius:5px; -webkit-border-radius:5px;}
+.input_login
+{ font-family: verdana; font-size:15px; border: 1px solid #444444; border-radius: 5px; -moz-border-radius:5px; -webkit-border-radius:5px;}
+.input_loginbutton
+{ font-family: verdana; font-size:15px; background-color: #dddddd; border: 1px solid #444444; border-radius: 5px; -moz-border-radius:5px; -webkit-border-radius:5px;}
+.input_loginbutton:hover
+{ color:#eeeeee; background-color: #555555; text-decoration:underline;}
+.p_loginform
+{ font-family: verdana; font-size:15px; color:#444444; text-align:center}
+.p_loginbutton
+{ text-indent:150px;}
+.p_error
+{ font-family: verdana; font-size:17px; color:#ff4f6c; text-align:center;font-style:italic;}
+.p_success
+{ font-family: verdana; font-size:17px; color:#00c60e; text-align:center;font-style:italic;}
+.p_abcabout
+{ font-family: verdana; font-size:15px; color:#444444; line-height: 25px; text-align:left; text-indent:50px;}
+#a_register
+{ font-family: verdana; font-size:15px; color:#3564ff; text-decoration: none}
+#a_register:hover
+{ font-family: verdana; font-size:15px; background: #ffee99;color:#7f3300; text-decoration: underline}
